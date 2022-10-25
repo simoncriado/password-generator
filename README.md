@@ -1,6 +1,6 @@
 # Password Generator App
 
-Small project to generate a random password. Having the possibility to select the password´s length, if it should include numbers, symbols, etc
+Small project to generate a random password. Having the possibility to select the password´s length, if it should include numbers, symbols, etc.
 
 ## Tech used
 
